@@ -20,13 +20,13 @@ This project demonstrates how to create a classic Tic-Tac-Toe game using Android
 Here are some screenshots of the app in action:
 
 ### Home Page - Player Names Input
-![Home Page](Screenshots/Screenshot_20240822_114844.png)
+<img src="Screenshots/Screenshot_20240822_115047.png" alt="Home Page" width="300"/>
 
 ### Game Page - Players Competing
-![Game Page](Screenshots/Screenshot_20240822_122225.png)
+<img src="Screenshots/Screenshot_20240822_122225.png" alt="Game Page" width="300"/>
 
 ### Player 1 Wins
-![Player 1 Wins](Screenshots/Screenshot_20240822_115408.png)
+<img src="Screenshots/Screenshot_20240822_115408.png" alt="Player 1 Wins" width="300"/>
 
 ### Player 2 Wins
-![Player 2 Wins](Screenshots/Screenshot_20240822_115636.png)
+<img src="Screenshots/Screenshot_20240822_115636.png" alt="Player 2 Wins" width="300"/>
